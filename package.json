@@ -1,0 +1,18 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "scripts",
+  "main": "../test.js",
+  "dependencies": {
+    "angular-sanitize": "^1.7.9",
+    "nodemailer": "^6.4.6",
+    "nodemailer-express-handlebars": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node sendMails",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ararat Asatryan",
+  "license": "ISC"
+}

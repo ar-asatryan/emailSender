@@ -1,0 +1,33 @@
+const mailList = [
+    'ivantey@newmail.ru',
+    'byd1973@comcast.net',
+    'amarisoi5@comcast.net',
+    'pestun@princeton.edu',
+    'wnetmail@gmail.com',
+    'dashutakor@mail.ru',
+    'pmelamed1@gmail.com',
+    'giavarme@hotmail.com',
+    'bigblaqwolf@yahoo.com',
+    'ronny-ulbrich@online.de',
+    'whiteangel@mail.ru',
+    'katerina-tarna.7@mail.ru',
+    'jojoxeti_samotxe@yahoo.com',
+    'babich07652@yahoo.com',
+    'andrey_boyarchuk@hotmail.com',
+    'greg_barsky@hotmail.com',
+    'bvi_home.64@mail.ru',
+    'igorshtey@yahoo.com',
+    'tanya97lat@yahoo.com',
+    'bmw.barr@gmail.com',
+    'britmana@bellsouth.net',
+    'kichus@hotmail.com',
+    'burdeyny@comcast.net',
+    'oksanaam@aol.com',
+    'plamenjj@yahoo.com',
+    'odessitka75@yahoo.com',
+    'magabekov@amtsj.org',
+    'romanov_lesh@ukr.net',
+    'jopker@aport.ru'
+];
+
+module.exports = mailList;
